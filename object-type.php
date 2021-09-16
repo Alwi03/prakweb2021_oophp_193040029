@@ -33,7 +33,7 @@ class CetakInfoProduk
 $produk1 = new Produk("Naruto", "Masashi Kishimoto", "Shonen Jump", 30000);
 $produk2 = new Produk("Uncharted", "Neil DruckMann", "Sony Computer", 250000);
 
-echo "Light Novel : " . $produk1->getLabel();
+echo "Komik : " . $produk1->getLabel();
 echo "</br>";
 echo "Game : " . $produk2->getLabel();
 echo "</br>";
