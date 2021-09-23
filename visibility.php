@@ -22,6 +22,7 @@ class Produk
 
 
 
+
   public function getHarga()
   {
     return $this->harga - ($this->harga * $this->diskon / 100);
