@@ -30,6 +30,7 @@ class CetakInfoProduk
   }
 }
 
+
 $produk1 = new Produk("Naruto", "Masashi Kishimoto", "Shonen Jump", 30000);
 $produk2 = new Produk("Uncharted", "Neil DruckMann", "Sony Computer", 250000);
 
