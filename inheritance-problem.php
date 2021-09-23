@@ -40,6 +40,7 @@ class Produk
   }
 }
 
+
 class CetakInfoProduk
 {
   public function cetak(Produk $produk)
