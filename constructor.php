@@ -23,6 +23,7 @@ class Produk
   }
 }
 
+
 $produk1 = new Produk("Naruto", "Masashi Kishimoto", "Shonen Jump", 30000);
 $produk2 = new Produk("Uncharted", "Neil Druckermann", "Sony Computer", 25000);
 $produk3 = new Produk("Dragon Ball");
