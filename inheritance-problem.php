@@ -56,3 +56,4 @@ $produk2 = new Produk("Uncharted", "Neil Druckman", "Sony Computer", 250000, 0, 
 echo $produk1->getInfoLengkap();
 echo "<br>";
 echo $produk2->getInfoLengkap();
+echo "<br>";
